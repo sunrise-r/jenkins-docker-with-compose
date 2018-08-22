@@ -1,1 +1,2 @@
-docker build -t inngvar/jenkins
+docker image build -t inngvar/jenkins ./
+
